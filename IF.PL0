@@ -1,0 +1,5 @@
+var a;
+begin
+ a:=2;
+ if a>7 then write(7)
+end.
